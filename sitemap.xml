@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- Файл sitemap.xml динамически создан сайтом https://gensitemap.ru/ 29.11.2018 17:15,
+	всего найдено 2. страниц-->
+	<url>
+		<loc>https://infinity-progress.kz/</loc>
+		<lastmod>2018-11-29T17:15:58+03:00</lastmod>
+		<priority>1</priority>
+		<changefreq>always</changefreq>
+	</url>
+	<url>
+		<loc>https://infinity-progress.kz/portfolio.html</loc>
+		<lastmod>2018-11-29T17:15:58+03:00</lastmod>
+		<priority>0.5</priority>
+		<changefreq>hourly</changefreq>
+	</url>
+</urlset>		     		    			    
