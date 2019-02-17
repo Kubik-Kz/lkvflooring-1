@@ -2006,6 +2006,9 @@ footer::before {
     width: 15%;
     left: 70%;
   }
+  .menu a {
+    font-size: 22px;
+  }
   .col-last {
     display: none;
   }
