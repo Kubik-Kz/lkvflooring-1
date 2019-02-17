@@ -53,7 +53,7 @@
 
  
  
- <div class="header-nav-mobile">
+ <div class="header-nav-mobile" id="main">
        <div class="menu-site">Menu</div>
     </div>
   <header>
@@ -222,7 +222,7 @@
     </div>
 </header>
 
-    <div class="about">
+    <div class="about" id="about">
         <div class="about__grid">
             <div class="content__about" id="content__about">
                 <h2 class="about__us_greens">About us</h2>
@@ -250,7 +250,7 @@ LKV Flooring provides world-class services to both residential and commercial bu
        <div class="blolo7 bl7"></div>
        <div class="blolo8 bl8"></div>
    </div>
-    <div class="projects">
+    <div class="projects" id="projects">
         <div class="com__projects">Commercial Projects</div>
            <div>
     <div class="wrap">
@@ -303,7 +303,7 @@ LKV Flooring provides world-class services to both residential and commercial bu
         
     </div>
 </section>
-<div class="feedback">
+<div class="feedback" id="feedback">
   <div class="name__lkv rellax" data-rellax-speed="3">LKV</div>
    <div class="flex__feedback">
     <div class="form">
@@ -335,10 +335,10 @@ LKV Flooring provides world-class services to both residential and commercial bu
         </div>
         <div class="second__cont">
             <ul>
-                <li><a href="#">Home</a> </li>
-                <li><a href="#">About us</a></li>
-                <li><a href="#">Gallery</a> </li>
-                <li><a href="#">Contact us</a></li>
+                <li><a class="scrollto" href="#main">Home</a> </li>
+                <li><a class="scrollto" href="#about">About us</a></li>
+                <li><a class="scrollto" href="#projects">Gallery</a> </li>
+                <li><a  class="scrollto" href="#feedback">Contact us</a></li>
             </ul>
             <div class="flex__hard">
             <div class="kind__floor">Floors</div>
@@ -427,7 +427,7 @@ $(document).on("click", "a", function() {
     
  
 </script>
-    
+
    
 </body>
 </html>
